@@ -29,9 +29,7 @@ const Acheron = ({ route, navigation }) => {
         <View style={styles.sideTextContainer}>
           <Text style={styles.sideHeader}>── Acheron_Fox ──</Text>
           <Text style={styles.sideText}>
-            Rank: Fő Tudós{"\n\n"}Lokáció: Site-19{"\n\n"}Foglalkozási
-            köre: Safe, Euclid és Keter osztályú objektumok
-            {"\n\n"}Megjegyzés: Hajlamos megpofozni Dr.Bright-ot
+            Oldalsó szöveg{"\n\n"}Oldalsó szöveg
           </Text>
         </View>
         <View style={styles.mainScroll}>
@@ -39,24 +37,7 @@ const Acheron = ({ route, navigation }) => {
           <ScrollView>
             <Text style={styles.mainHeader}>── Történet ──</Text>
             <Text style={styles.mainText}>
-              Acheron egy ritka, rókaszerű tagja az SCP-3312 fajnak egy
-              ismeretlen Fázisban.{"\n\n"}
-              Miután az Alapítvány felfedezte őt ebben az ismeretlen Fázisban,
-              az Alapítvány elkezdett tesztelni rajta, de az Alapítvány gyorsan
-              rájött, hogy még mindig voltak neki magasabb kognitív funkciói.
-              {"\n"}Az Alapítvány többször is intejút készített vele egy
-              izolált szobában és felfedezte, hogy az SCP-3312 memetikus szer
-              előtt Acheronnak több végzettsége volt több tudományos ágazatban.
-              {"\n\n"}Ezzel az információval az Alapítvány alkalmazott ként
-              felvette őt annak reményében, hogy többet tanuljanak SCP-3312-ról.
-              {"\n\n"}
-              Acheron [KITÖRÖLVE] óta az SCP-Alapítványnak dolgozik.{"\n"}
-              Jelenleg Site-19-nél állomásozott.
-              {"\n"}Dr.Alma ki lett jelölve, hogy szoros figyelemmel ellenőrízze
-              Acheron-t és az ő előrehaladását.{"\n\n"}SCP-096 kitörésénél,
-              [KITÖRÖLVE]-ben Acheron segített SCP-096 visszatartásában és azóta
-              fő tudóssá lett előre léptetve.{"\n\n"}SCP-999-nek észrevehetően
-              egészségtelen megszállottsága van Dr.Acheron-al.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </Text>
           </ScrollView>
         </View>
@@ -82,9 +63,7 @@ const Acheron = ({ route, navigation }) => {
         <View style={styles.sideTextContainer}>
           <Text style={styles.sideHeader}>── Acheron_Fox ──</Text>
           <Text style={styles.sideText}>
-            Rank: Major Scientist{"\n\n"}Location: Site-19{"\n\n"}Occupational
-            Areas: Safe, Euclid and Keter class objects{"\n\n"}Notes: Has a
-            tendency to slap Dr.Bright
+            Side Text{"\n\n"}Side Text
           </Text>
         </View>
         <View style={styles.mainScroll}>
@@ -92,22 +71,7 @@ const Acheron = ({ route, navigation }) => {
           <ScrollView>
             <Text style={styles.mainHeader}>── History ──</Text>
             <Text style={styles.mainText}>
-              Acheron is a rare, vulpine member of species SCP-3312 in an
-              unknown Stage.{"\n\n"}
-              After the Foundation has discovered him in this unknown Stage the
-              Foundation began testing on him, but the Foundation quickly
-              realised that he still has higher cognitive functions.{"\n"}The
-              Foundation interviewed him several times in an isolated room and
-              discovered that prior to the SCP-3312 memetic agent he had several
-              degrees in various sciences.{"\n\n"}With this information the
-              Foundation employed him in hopes of learning more about SCP-3312.
-              {"\n\n"}Acheron works for the SCP-Foundation since [REDACTED].
-              {"\n"}Currently stationed at Site-19.{"\n"}Dr.Alma is assigned
-              with closely monitoring Acheron and his progress.{"\n\n"}At a
-              containment breach from SCP-096 in [REDACTED] Acheron aided in the
-              recontainment and since then has been promoted to Major Scientist.
-              {"\n\n"}It has been noticed that SCP-999 has an unhealthy
-              obsession with Dr.Acheron.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </Text>
           </ScrollView>
         </View>
